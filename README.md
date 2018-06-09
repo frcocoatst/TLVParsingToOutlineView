@@ -2,7 +2,7 @@
 
 The hard parts were coded by Code Different!
 
-https://stackoverflow.com/questions/50407560/swift4-displaying-parser-result-in-an-nsoutlineview/50459453?noredirect=1#comment88528950_50459453
+https://stackoverflow.com/questions/50407560/swift4-displaying-parser-result-in-an-nsoutlineview/
 
 
 Demodata:
